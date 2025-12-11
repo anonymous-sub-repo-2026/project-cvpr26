@@ -1,0 +1,7 @@
+enabled: true  
+backend: mmengine
+threshold: 0.7
+device: cuda:1
+config_path: config_path/
+checkpoint_path: router_path/
+router_checkpoint: router_path/

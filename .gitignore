@@ -1,0 +1,8 @@
+__pycache__/*
+*/__pycache__/*
+*.jsonl
+*.csv
+*.pyc
+data/*.json
+reranker.pth
+config/runs/
